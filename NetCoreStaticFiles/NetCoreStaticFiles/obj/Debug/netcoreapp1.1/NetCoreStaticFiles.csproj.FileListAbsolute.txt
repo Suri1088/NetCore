@@ -1,0 +1,9 @@
+F:\Core\GitHub\NetCoreStaticFiles\NetCoreStaticFiles\bin\Debug\netcoreapp1.1\NetCoreStaticFiles.deps.json
+F:\Core\GitHub\NetCoreStaticFiles\NetCoreStaticFiles\bin\Debug\netcoreapp1.1\NetCoreStaticFiles.runtimeconfig.json
+F:\Core\GitHub\NetCoreStaticFiles\NetCoreStaticFiles\bin\Debug\netcoreapp1.1\NetCoreStaticFiles.runtimeconfig.dev.json
+F:\Core\GitHub\NetCoreStaticFiles\NetCoreStaticFiles\bin\Debug\netcoreapp1.1\NetCoreStaticFiles.dll
+F:\Core\GitHub\NetCoreStaticFiles\NetCoreStaticFiles\bin\Debug\netcoreapp1.1\NetCoreStaticFiles.pdb
+F:\Core\GitHub\NetCoreStaticFiles\NetCoreStaticFiles\obj\Debug\netcoreapp1.1\NetCoreStaticFiles.csprojResolveAssemblyReference.cache
+F:\Core\GitHub\NetCoreStaticFiles\NetCoreStaticFiles\obj\Debug\netcoreapp1.1\NetCoreStaticFiles.AssemblyInfo.cs
+F:\Core\GitHub\NetCoreStaticFiles\NetCoreStaticFiles\obj\Debug\netcoreapp1.1\NetCoreStaticFiles.dll
+F:\Core\GitHub\NetCoreStaticFiles\NetCoreStaticFiles\obj\Debug\netcoreapp1.1\NetCoreStaticFiles.pdb
